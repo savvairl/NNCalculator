@@ -1,1 +1,1 @@
-# NNCalculator
+Открывать файл main.py
